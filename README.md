@@ -1,30 +1,22 @@
-<h1 align="center">LONUA 👍</h1>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👕LONUA👕&desc=All%20For%20Individual%20Customized%20Fashion&descSize=20&descAlign=50&descAlignY=75&fontSize=100&animation=fadeIn&fontColor=6A0888)
+> **[플레이 데이터] 한화시스템 BEYOND SW캠프/ D.P (💥Developer Passion💥)**
 
-demo
-<center>
-    <img src="./img/pic1.png"  style="zoom:76%;" align="center"/>
-</center>
-
-
-
-> [플레이 데이터] 한화시스템 BEYOND SW캠프 / D.P (Developer Passion)
-
-🎬[Demo 시연영상](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)   
-📃[프로젝트 회고록](블로그주소) 
+## 🎬 [Demo 시연영상](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)   
+## 📃 [요구사항 분석 보고서](블로그주소) 
 
 ## ✨ 프로젝트 설명
 
-LONUA
-(ALL for Indivivual customized fashion)
-
-온라인 쇼핑몰 이용자 수가 지속적으로 증가하고 있는만큼,
-쇼핑몰에 등록되는 상품의 수도 기하급수적으로 늘어나 이용자의 상품 선택에 어려움이 있다.
-
-따라서 개인에게 맞는 옷, 스타일을 제공하여 선택의 폭을 조금이나마 줄여주는
-개인 맞춤형 패션 플랫폼 서비스를 제공한다.
+ - 온라인 쇼핑몰 이용자 수가 " **지속적으로 증가** " 하고 있는만큼, 쇼핑몰에 등록되는 상품의 수 역시 
+  " **기하급수적으로 늘어나** " &nbsp;&nbsp;상품 선택 시 이용자가 **선택의 어려움**을 겪고 있다.
+ 
+ 
+ - 따라서 **개인에게 맞는 옷, 스타일을 제공**하여 수많은 상품에 대한 선택의 폭을 줄임으로써  
+   **쇼핑시간을 단축**시켜주는 " **<span style="color:blue">개인 맞춤형 패션 플랫폼 서비스</span>** " 를 제공한다.
 ## 📌 프로젝트 목표
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/L i n u x-FCC624?style=flat&logo=linux&logoColor=black"></a>
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL InnoDB-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CentOS   8-262577?style=flat&logo=centos&logoColor=white&color=purple"/></a></a>
 
-MYSQL Inno DB , Linux CentOS 8,
 
 ## 🔍 Overview
 
