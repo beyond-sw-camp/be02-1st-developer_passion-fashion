@@ -6,7 +6,7 @@
 </center>
 
 ## 🎬 [Demo 시연영상](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)   
-## 📃 [요구사항 분석 보고서](./요구사항 정의서-수정1.pdf) 
+
 
 ## ✨ 프로젝트 설명
 
