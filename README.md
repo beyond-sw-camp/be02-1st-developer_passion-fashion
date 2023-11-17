@@ -22,9 +22,9 @@
 ## 🙆‍♀️ 프로젝트 구현
 
 > 📝 **ERD**
-<center>
-    <img src="./img/ERD.png"/>
-</center>
+
+<img src="./img/ERD.PNG"/>
+
 
 ## 💻 DB Clustering 을 활용한 ???
 
