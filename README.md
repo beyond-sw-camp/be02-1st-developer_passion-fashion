@@ -2,7 +2,7 @@
 > **[플레이 데이터] 한화시스템 BEYOND SW캠프/ D.P (💥Developer Passion💥)**
 
 <center>
-    <img src="./img/fashion.jpg" />
+<img src="./img/fashion.jpg"/>
 </center>
 
 ## 🎬 [서버 시연 영상](https://youtu.be/oUENDKls7C4)   
