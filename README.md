@@ -22,111 +22,14 @@
 &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CentOS   8-262577?style=flat&logo=centos&logoColor=white&color=purple"/></a></a>
 
 
-## 🔍 Overview
+## 🙆‍♀️ 프로젝트 구현
 
-### 1. 회원 기능
-&nbsp;&nbsp;　**1.1 회원가입**
-> INSERT INTO ~~~
+> 📝 **ERD**
+<center>
+    <img src="./img/ERD.png" />
+</center>
 
-- 가입 전
- <img src=""/>
-- 가입 후
- <img src=""/>
----
-
-&nbsp;&nbsp;　**1.2 로그인**  
-> SELECT ~~~
-
-- 로그인 전 : 상태 0
-  <img src=""/>
-- 로그인 후 : 상태 1
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.3 원하는 상품 장바구니에 담기**
-> INSERT INTO ~~~
-- 담기 전 
-  <img src=""/>
-- 담기 후 
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.4 마음에 드는 상품 찜하기**
-> INSERT INTO ~~~
-- 찜하기 전
-  <img src=""/>
-- 찜하기 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.5 온도, 스타일, 카테고리 별 상품 검색**
-> SELECT ~~~
-- 검색 결과
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.6 리뷰**
-> INSERT INTO ~~~
-- 리뷰 전
-  <img src=""/>
-- 리뷰 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.7 문의 하기**
-> INSERT INTO ~~~
-- 문의 전
-  <img src=""/>
-- 문의 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.8 쿠폰 사용**
-> SELECT? UPDATE? DELETE? ~~~
-- 사용 전
-  <img src=""/>
-- 사용 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**1.8 회원등급에 따른 할인 적용**
-> SELECT? UPDATE? DELETE? ~~~
-- 적용 전
-  <img src=""/>
-- 적용 후
-  <img src=""/>
----
-### 2. 판매자(Brand) 기능
-&nbsp;&nbsp;　**2.1 회원가입**
-> INSERT INTO ~~~
-
-- 가입 전
-  <img src=""/>
-- 가입 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**2.2 로그인**
-> SELECT  ~~~
-- 로그인 전
-  <img src=""/>
-- 로그인 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**2.3 판매상품 등록**
-> INSERT  ~~~
-- 등록 전
-  <img src=""/>
-- 등록 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**2.4 판매상품 수정**
-> UPDATE  ~~~
-- 수정 전
-  <img src=""/>
-- 수정 후
-  <img src=""/>
----
-&nbsp;&nbsp;　**2.5 판매상품 삭제**
-> DELETE  ~~~
-- 삭제 전
-  <img src=""/>
-- 삭제 후
-  <img src=""/>
----
-## System Architecture
+## 💻 DB Clustering 을 활용한 ???
 
 <center>
     <img src="./img/pic2.png" />
