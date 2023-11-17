@@ -29,56 +29,56 @@
 ---
 
 ## 💻 DB Clustering 을 활용한 서버구성
-* 서버현황
+✅ **서버현황**
 <center>
     <img src="./img/gif/01_서버현황.gif" />
 </center>
 
 ---
 
-* 서버설정 후 워크벤치로 들어가기
+✅ **서버설정 후 워크벤치로 들어가기**
 <center>
     <img src="./img/gif/02_워크벤치로 들어가기.gif" />
 </center>
 
 ---
 
-* Primary server id 확인
+✅ **Primary server id 확인**
 <center>
     <img src="./img/gif/03_프라이머리 서버아이디 확인.gif" />
 </center>
 
 ---
 
-* Secondary server id 확인
+✅ **Secondary server id 확인**
 <center>
     <img src="./img/gif/04_세컨더리 서버아이디 확인.gif" />
 </center>
 
 ---
 
-* DB1 서버 다운 후 DB2 Primary 적용 확인
+✅ **DB1 서버 다운 후 DB2 Primary 적용 확인**
 <center>
     <img src="./img/gif/05_DB1 죽였을때.gif" />
 </center>
 
 ---
 
-* DB1 서버 다운 후 server id 변경 확인
+✅ **DB1 서버 다운 후 server id 변경 확인**
 <center>
     <img src="./img/gif/06_DB1 죽이고 6446접속.gif" />
 </center>
 
 ---
 
-* DB1 서버복구 후 서버 현황
+✅ **DB1 서버복구 후 서버 현황**
 <center>
     <img src="./img/gif/07_DB1다시 살렸을때 서버 현황.gif" />
 </center>
 
 ---
 
-* Primary DB에서 읽고 쓰기
+✅ **Primary DB에서 읽고 쓰기**
 <center>
     <img src="./img/gif/08_프라이머리에서 읽기.gif" />
     <img src="./img/gif/09_프라이머리에서 쓰기.gif" />
@@ -86,7 +86,7 @@
 
 ---
 
-* Secondary DB에서 읽고 쓰기
+✅ **Secondary DB에서 읽고 쓰기**
 <center>
     <img src="./img/gif/10_세컨더리에서 읽기쓰기.gif" />
 </center>
